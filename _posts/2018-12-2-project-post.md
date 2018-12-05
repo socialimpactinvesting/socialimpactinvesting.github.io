@@ -1,12 +1,17 @@
 ---
-layout: post
 title: Applied Data Analysis Project @ EPFL
+layout: post
+date: 'December 16, 2018'
+description: "Society is demanding that companies, both public and private, serve a social purpose." Learn if institutional investors are succeeding in contributing to social good.
 ---
-# Are Investors Impacting Social Good?
 
-# Preparing the Data
 
-# Results
+# How are Investors Contributing to Social Good? 
+{% include jc_industries.html %}
 
-# Recommendation
+## Preparing the Data 
+
+## Results 
+
+## Recommendation 
 
