@@ -1,3 +1,9 @@
+---
+layout: post
+title: Applied Data Analysis Project @ EPFL
+
+---
+
 # Introduction 
 
 *"Society is demanding that companies, both public and private, serve a social purpose. To prosper over time, every company must not only deliver financial performance but also show how it makes a positive contribution to society."* - Laurence D. Fink, CEO BlackRock (largest asset manager in the world)
